@@ -19,4 +19,14 @@ connect with me on [linkedIn ](https://www.linkedin.com/in/yashaswi-aryan-3a5400
 ---
 [![](https://visitcount.itsvg.in/api?id=Yashaswiaryan22&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🏆 Certifications & Achievements
+
+📜Python 101 for Data Science (IBM SkillsBuild )<br/>
+📜 Data Analysis with Python (Cognitive Class)<br/>
+🏅 Python for Data Science (DataCamp)<br/>
+🎯 C Algorithms and Data Structures (Internshala Training)<br/>
+📈 Power Bi for Data Visualisation (Office Master)<br/>
+🏆 Participated in [Local Hackathon at tula's Institute dehradun] - Top 10 Finalist<br/>
+🏆 Finalist in BGMI and Second Finalist in Velorant India on Institute level 
+
+
