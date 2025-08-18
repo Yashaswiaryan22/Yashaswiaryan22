@@ -1,4 +1,4 @@
-Hi there, I'm Yashaswi Aryan 👋
+Hi there, I'm Yashaswi Aryan 👋 <br/>
 🚀 About me
 
 🎓 Recent graduate passionate about Data Analysis and Software Development<br/>
