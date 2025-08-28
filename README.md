@@ -118,15 +118,10 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Yashaswiaryan22/Yashaswiaryan22/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yashaswiaryan22/Yashaswiaryan22/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 ## 🏆 GitHub Achievements
 
